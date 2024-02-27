@@ -1,0 +1,11 @@
+﻿  main.cpp
+F:\opengl_101\OpenGLExercise01\main.cpp(122,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\opengl_101\OpenGLExercise01\main.cpp(123,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\opengl_101\OpenGLExercise01\main.cpp(128,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\opengl_101\OpenGLExercise01\main.cpp(129,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\opengl_101\OpenGLExercise01\main.cpp(131,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\opengl_101\OpenGLExercise01\main.cpp(132,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  OpenGLExercise01.vcxproj -> F:\opengl_101\OpenGLExercise01\Debug\OpenGLExercise01.exe
